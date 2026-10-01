@@ -84,8 +84,8 @@ st.set_page_config(page_title="Shadman Town Bait ul Maal", page_icon=LOGO_ICON, 
 # ─────────────────────────────────────────────
 #  ✏️  STEP 1 – CHANGE LOGIN CREDENTIALS HERE
 # ─────────────────────────────────────────────
-ADMIN_USERNAME = "stnazim"
-ADMIN_PASSWORD = "Jamiat@st123"
+ADMIN_USERNAME = "stNazim26"
+ADMIN_PASSWORD = "AaadKada"
 
 # ─────────────────────────────────────────────
 #  ✏️  STEP 2 – FUND MUAWINEEN EXTRA PASSWORD
